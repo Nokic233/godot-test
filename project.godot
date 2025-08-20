@@ -13,8 +13,3 @@ config_version=5
 config/name="test"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="uid://duffi0a81o1yq"
-
-[editor]
-
-version_control/plugin_name="GitPlugin"
-version_control/autoload_on_startup=true
